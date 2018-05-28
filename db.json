@@ -1,14 +1,31 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+[
+{
+  "model": "Dell R210Intel Xeon X3440 1",
+  "ram": "16GBDDR31",	
+  "hdd": "2x2TBSATA21",
+  "location": "AmsterdamAMS-011",
+  "currency": "€",
+  "price": 149.99
+},
+
+{
+  "model": "Dell R210Intel Xeon X34402",
+  "ram": "16GBDDR32",	
+  "hdd": "2x2TBSATA22",
+  "location": "AmsterdamAMS-012",
+  "currency": "€",
+  "price": 249.99
+},
+  
+
+{
+  "model": "Dell R210Intel Xeon X34403",
+  "ram": "16GBDDR33",	
+  "hdd": "2x2TBSATA23",
+  "location": "AmsterdamAMS-013",
+  "currency": "€",
+  "price": 439.99
+}
+]
 }
